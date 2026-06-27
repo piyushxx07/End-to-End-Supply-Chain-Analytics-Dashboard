@@ -196,11 +196,6 @@ The dashboard is built using multiple **CSV datasets** representing different st
 
 ---
 
-## 📸 Dataset Preview
-
-<p align="center">
-<img src="Images/Dataset.png" width="95%">
-</p>
 
 ---
 
@@ -233,7 +228,7 @@ The dashboard follows a relational data model that connects procurement, invento
 The optimized model improves dashboard performance while enabling accurate KPI calculations and interactive filtering.
 
 <p align="center">
-<img src="Images/Model.png" width="95%">
+<img src="Images/DataModel.png" width="95%">
 </p>
 
 ---
@@ -331,7 +326,7 @@ End-to-End-Supply-Chain-Analytics/
 │   ├── Shipment.png
 │   ├── Customer.png
 │   ├── Dataset.png
-│   └── Model.png
+│   └── DataModel.png
 │
 ├── README.md
 └── LICENSE
